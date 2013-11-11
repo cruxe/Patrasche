@@ -6,7 +6,7 @@
    - DB : 몽고
  - 사용 오픈소스
    - diff
-   - 형상관리 플러그인
+   - 형상관리 플러그인 http://subclipse.tigris.org/svn/subclipse/trunk/     guest / guest
    - Spring 최신버전
  - 기능 요구사항
    - 형상관리 연계
